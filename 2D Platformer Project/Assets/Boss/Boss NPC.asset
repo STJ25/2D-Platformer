@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b61e42650f377a24cb2e2199b6818db9, type: 3}
+  m_Name: Boss NPC
+  m_EditorClassIdentifier: 
+  npcName: Bob - The Necromancer
+  dialogueLines:
+  - "\"You dare challenge me, Knight? I\u2019ve raised orcs, soldiers, and even that
+    one guy who owed me five gold!\""
+  - 'Knight''s Response : "Enough with the melodrama. This kingdom has enough problems
+    without your bone fetish!"'
+  - '"You think you can stop the eternal darkness with a sword and sarcasm?"'
+  - "Knight's Response : \"Sarcasm\u2019s my best weapon. And this rusty sword is
+    just for decoration.\""
+  - '"Fine then let''s see your best weapon Against my ETERNAL DARKNESSSS !!!!!"'
+  - '"Why are you standing here ? go forward we''ll have a battle there."'
+  - '"Just go forward I''ll catch up with you"'
+  - '"Just go ahead dude , for the love of GOD !"'
+  portrait: {fileID: 2752677570131296368, guid: f02f7a4ad43a2c34ea54956df717dbf2, type: 3}

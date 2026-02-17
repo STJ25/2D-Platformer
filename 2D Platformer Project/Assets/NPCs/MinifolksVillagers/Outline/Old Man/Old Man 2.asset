@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b61e42650f377a24cb2e2199b6818db9, type: 3}
+  m_Name: Old Man 2
+  m_EditorClassIdentifier: 
+  npcName: Old Man
+  dialogueLines:
+  - '"Long ago, this forest was peaceful... until someone opened that wretched crypt.
+    Now the trees whisper and the mushrooms judge me."'
+  portrait: {fileID: 8629931564238155836, guid: 30f5d517699072d40a84e29ccc8e67b4, type: 3}

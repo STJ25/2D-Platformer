@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b61e42650f377a24cb2e2199b6818db9, type: 3}
+  m_Name: Queen Boss Area
+  m_EditorClassIdentifier: 
+  npcName: Queen
+  dialogueLines:
+  - '"You did it! The curse is lifted, the forest is quiet, and the villagers have
+    gone back to complaining about normal things."'
+  portrait: {fileID: -6603634777811477344, guid: 63c8b3989bbdab54d9f525d619560823, type: 3}

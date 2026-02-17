@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b61e42650f377a24cb2e2199b6818db9, type: 3}
+  m_Name: Worker
+  m_EditorClassIdentifier: 
+  npcName: Worker
+  dialogueLines:
+  - '"I was just building a shed. Next thing I know --BOOM-- Orc through the wall.
+    Not OSHA-approved!"'
+  - 'Knight''s Response : "Guess it''s time to do some aggressive landscaping."'
+  portrait: {fileID: -6903121302223579341, guid: 4032e8312292720459fdc53a8fb6563a, type: 3}

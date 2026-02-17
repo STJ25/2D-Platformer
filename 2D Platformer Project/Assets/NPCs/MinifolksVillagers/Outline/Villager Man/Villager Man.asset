@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b61e42650f377a24cb2e2199b6818db9, type: 3}
+  m_Name: Villager Man
+  m_EditorClassIdentifier: 
+  npcName: Villager Man
+  dialogueLines:
+  - "\"I swear, last week it was wolves. Now it\u2019s green-skinned brutes with
+    clubs! Where's the pest control when you need it?\""
+  portrait: {fileID: -692003313702210500, guid: b0dcef7bc5c0b3344936df53b5f166c3, type: 3}
